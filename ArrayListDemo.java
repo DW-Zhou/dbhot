@@ -13,5 +13,8 @@ public class ArrayListDemo {
         System.out.println(list);
         System.out.println(list.get(2));
         System.out.println(list.size());
+
+        //我要在这个方法进行改进
+        System.out.println("wohahah");
     }
 }
